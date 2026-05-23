@@ -1,0 +1,27 @@
+com.example.robot
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnClear
+id btnDown
+id btnGo
+id btnLeft
+id btnNewGame
+id btnRestart
+id btnRight
+id btnUp
+id gameGrid
+id tvCommands
+id tvLevel
+id tvPreviousCommands
+id tvTimer
+id tvWin
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_Robot
+style Theme_Robot
+xml backup_rules
+xml data_extraction_rules
